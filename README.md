@@ -1,40 +1,81 @@
-👋 Hi, I'm Turgay — HVAC + AI Technician
+# 👋 Hi, I'm Turgay — HVAC + AI Technician
 
-EPA 608 Technician | Studying BACnet, BMS, HVAC-AI & EnergyPlus
-Building my long-term career through the Solo IL HVAC AI journey (2026–2030).
+I’m an early-career technician developing global-level fundamentals in  
+**HVAC systems, Building Automation (BMS), BACnet**, and **AI-supported energy optimization**.
 
-🔧 What I’m learning now
+My long-term mission is to build a **world-class skillset** by combining:
+- HVAC field knowledge  
+- Building controls & communication protocols  
+- Smart-building automation  
+- Energy modeling tools  
+- AI-assisted diagnostics and optimization  
 
-EPA 608 Universal
+This GitHub profile documents my entire learning journey from  
+**EPA 608 ➝ BMS ➝ BACnet ➝ BrainBox AI ➝ EnergyPlus ➝ HVAC-AI (2026–2030)**.
 
-R-410A & Safety
 
-Building Automation (BMS)
+---
 
-BACnet fundamentals
+## 📘 What I'm Learning Now
+- EPA 608 Universal (in progress)  
+- R-410A & HVAC Safety  
+- Building Automation (BMS)  
+- BACnet fundamentals  
+- BrainBox AI & HVAC-AI tools  
+- EnergyPlus simulations  
+- IT Foundations (Networking + OS)  
 
-BrainBox AI & HVAC-AI tools
 
-EnergyPlus simulations
+---
 
-IT Foundations (Networking + OS)
+## 🛠️ Skills / Technical Stack
 
-🚀 My Projects
+### 🔹 HVAC & Field Basics
+EPA 608 • Refrigeration • 24VAC circuits • Safety • R-410A • Split systems
 
-Project 4: BrainBox AI & HVAC-AI Experiments
+### 🔹 Smart Buildings / BMS
+BACnet (intro) • BAS logic • Documentation • Controls diagnostics • VAV/RTU basics
 
-Project 5: Service Tech Field Notes & Checklists
+### 🔹 HVAC-AI & Energy Modeling
+BrainBox AI • Data-driven HVAC optimization • Setpoint strategy • EnergyPlus (intro)
 
-Project 6: HVAC + IT Foundations Lab
+### 🔹 IT Foundations
+Operating systems • Networking basics • Switches/Routers • Troubleshooting
 
-Project 7: BACnet Pro & Advanced Building Automation
 
-🌐 Portfolio
+---
 
-👉 https://soloilhvacai.com
+## 🚀 My Projects
+### Project 4: BrainBox AI & HVAC-AI Experiments  
+Hands-on tests with AI-supported HVAC optimization.  
+➡️ https://soloilhvacai.com
 
-📫 Contact
+### Project 5: Service Tech Field Notes & Checklists  
+Personal playbook: circuits, diagnostics, 24VAC logic, safety workflows.
 
-Email: turgayyciecek@gmail.com
+### Project 6: HVAC + IT Foundations Lab  
+Networking + HVAC integration experiments.
 
-Twitter: @SoloILHVACAI
+### Project 7: BACnet Pro & Advanced Building Automation  
+My long-term roadmap toward advanced BACnet and multi-vendor BAS skills.  
+➡️ https://soloilhvacai.com/bacnet-pro
+
+
+---
+
+## 🗂️ Portfolio  
+https://soloilhvacai.com
+
+
+---
+
+## 📬 Contact
+**Email:** turgayycicek@gmail.com  
+**Twitter:** @SoloILHVACAI  
+
+
+---
+
+### 🌍 *SOLO IL HVAC AI — Learning from zero to specialist*  
+
+
