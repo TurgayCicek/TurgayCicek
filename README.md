@@ -1,81 +1,98 @@
-# 👋 Hi, I'm Turgay — HVAC + AI Technician
+# 👋 Hi, I'm Turgay — HVAC Technician | Smart Buildings + AI
 
-I’m an early-career technician developing global-level fundamentals in  
-**HVAC systems, Building Automation (BMS), BACnet**, and **AI-supported energy optimization**.
+I'm an HVAC technician based in New Jersey, developing hands-on skills in HVAC service, electrical troubleshooting, building automation, and smart-building technologies.
 
-My long-term mission is to build a **world-class skillset** by combining:
-- HVAC field knowledge  
-- Building controls & communication protocols  
-- Smart-building automation  
-- Energy modeling tools  
-- AI-assisted diagnostics and optimization  
+My long-term goal is to combine **HVAC field experience + electrical troubleshooting + BMS/BAS + BACnet + energy technology + AI**.
 
-This GitHub profile documents my entire learning journey from  
-**EPA 608 ➝ BMS ➝ BACnet ➝ BrainBox AI ➝ EnergyPlus ➝ HVAC-AI (2026–2030)**.
-
+I document this journey through **SOLO IL HVAC AI**.
 
 ---
 
-## 📘 What I'm Learning Now
-- EPA 608 Universal (in progress)  
-- R-410A & HVAC Safety  
-- Building Automation (BMS)  
-- BACnet fundamentals  
-- BrainBox AI & HVAC-AI tools  
-- EnergyPlus simulations  
-- IT Foundations (Networking + OS)  
+## 🏆 Certifications
 
+- EPA 608 Universal
+- OSHA 10
+- R-410A
 
----
+### 📚 ASHRAE Training
 
-## 🛠️ Skills / Technical Stack
-
-### 🔹 HVAC & Field Basics
-EPA 608 • Refrigeration • 24VAC circuits • Safety • R-410A • Split systems
-
-### 🔹 Smart Buildings / BMS
-BACnet (intro) • BAS logic • Documentation • Controls diagnostics • VAV/RTU basics
-
-### 🔹 HVAC-AI & Energy Modeling
-BrainBox AI • Data-driven HVAC optimization • Setpoint strategy • EnergyPlus (intro)
-
-### 🔹 IT Foundations
-Operating systems • Networking basics • Switches/Routers • Troubleshooting
-
+- Commissioning Quick Start
+- Ultra-Low-Energy Buildings and Microgrids
+- ASHRAE 241 Preview: Why It Matters
 
 ---
 
-## 🚀 My Projects
-### Project 4: BrainBox AI & HVAC-AI Experiments  
-Hands-on tests with AI-supported HVAC optimization.  
-➡️ https://soloilhvacai.com
+## 🔧 Current Technical Focus
 
-### Project 5: Service Tech Field Notes & Checklists  
-Personal playbook: circuits, diagnostics, 24VAC logic, safety workflows.
+### HVAC & Electrical
 
-### Project 6: HVAC + IT Foundations Lab  
-Networking + HVAC integration experiments.
+- HVAC electrical fundamentals
+- Voltage, current, resistance and power
+- 24VAC control circuits
+- Capacitors and contactors
+- Motors and electrical troubleshooting
+- HVAC service diagnostics
 
-### Project 7: BACnet Pro & Advanced Building Automation  
-My long-term roadmap toward advanced BACnet and multi-vendor BAS skills.  
-➡️ https://soloilhvacai.com/bacnet-pro
+### Smart Buildings / BMS
 
-
----
-
-## 🗂️ Portfolio  
-https://soloilhvacai.com
-
+- Building Automation Systems (BMS/BAS)
+- BACnet fundamentals
+- Controllers and sensors
+- BACnet objects and Present_Value
+- Trends, alarms and schedules
+- AHU / RTU / VAV fundamentals
 
 ---
 
-## 📬 Contact
-**Email:** turgayycicek@gmail.com  
-**Twitter:** @SoloILHVACAI  
+## 📘 Currently Learning
 
+- Advanced HVAC electrical troubleshooting
+- Building Automation Systems
+- BACnet
+- Smart-building controls
+- EnergyPlus fundamentals
+- HVAC + AI applications
 
 ---
 
-### 🌍 *SOLO IL HVAC AI — Learning from zero to specialist*  
+## 🚀 Technical Roadmap
 
+My development path:
 
+**HVAC Field Work → Electrical → BMS/BAS → BACnet → Energy Modeling → HVAC + AI**
+
+The objective is to connect traditional HVAC field knowledge with modern building automation and data-driven HVAC technology.
+
+---
+
+## 🧪 Learning Labs & Projects
+
+I am building practical learning projects and technical documentation around:
+
+- HVAC Electrical Troubleshooting
+- HVAC Service Checklists
+- 24VAC Control Circuits
+- BACnet Learning Lab
+- BMS / Smart Building Exercises
+- EnergyPlus Experiments
+- HVAC + AI Experiments
+
+These projects will document both what works and what I learn along the way.
+
+---
+
+## 🌐 SOLO IL HVAC AI
+
+**Learning from zero to specialist.**
+
+SOLO IL HVAC AI is my independent learning project documenting the journey from HVAC field work toward smart buildings, building automation, energy technology, and AI-assisted HVAC.
+
+Website: https://soloilhvacai.com
+
+X: @SoloILHVACAI
+
+---
+
+## 📍 Location
+
+New Jersey, USA
